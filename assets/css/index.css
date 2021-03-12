@@ -6,7 +6,7 @@ body {
     height: 100%;
     /* 页面不会有滚动 */
     overflow: hidden;
-    background: url('/assets/images/login_bg.jpg') no-repeat;
+    background: url('/assets/images/02.jpg') no-repeat;
     background-size: cover;
 }
 
