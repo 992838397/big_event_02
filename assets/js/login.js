@@ -82,7 +82,7 @@ $(function () {
                 layer.msg('恭喜你,登入成功');
                 // 保存token 未来接口要用到
                 localStorage.setItem('token', res.token);
-                // location.href = '/index.html';
+                location.href = '/index.html';
             }
         })
 
