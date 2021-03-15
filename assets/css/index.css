@@ -8,8 +8,8 @@
 }
 
 .layui-icon {
-    margin-right: 8px;
     margin-left: 20px;
+    margin-right: 8px;
 }
 
 .layui-body {
@@ -25,12 +25,10 @@ iframe {
     height: 60px;
     line-height: 60px;
     text-align: center;
-    font-size: 12px;
-    /* 取消可选 */
-    user-select: none;
+    user-select: noen;
 }
 
-.layui-side .userinfo {
+.layui-side-scroll .userinfo {
     border-bottom: 1px solid #000;
 }
 
