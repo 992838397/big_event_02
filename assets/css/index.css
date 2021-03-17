@@ -21,6 +21,11 @@ iframe {
     height: 100%;
 }
 
+/* .layui-side-scroll {
+    overflow: hidden;
+    height: 80%;
+} */
+
 .userinfo {
     height: 60px;
     line-height: 60px;
